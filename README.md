@@ -1,12 +1,73 @@
-# React + Vite
+# TextShot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TextShot is a powerful and easy-to-use text processing tool that helps you quickly manipulate and analyze your text.  
+Convert your text to uppercase or lowercase, clear it with a click, and instantly see a summary of words, characters, and reading time.  
+Whether for writing, editing, or learning, TextShot makes working with text fast and effortless.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Features
 
-## Expanding the ESLint configuration
+- **Text Transformation**: Convert text to uppercase or lowercase instantly.  
+- **Quick Reset**: Clear your text with a single click.  
+- **Instant Summary**: Get word count, character count, and estimated reading time.  
+- **Responsive Design**: Works seamlessly across desktop, tablet, and mobile.  
+- **User-Friendly**: Minimal UI, simple interactions, fast results.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+##  Tech Stack
+
+- **Frontend**: React + Vite  
+- **Styling**: Tailwind CSS  
+
+---
+
+##  Review Images
+
+### Home
+![Home Page](./images/home.png)
+
+### Feature1
+![Features Page](./images/features.png)
+
+### Feature2
+![Contact Page](./images/contact.png)
+
+### Feature3
+![Home Page](./images/home.png)
+
+### Contact
+![Features Page](./images/features.png)
+
+---
+
+##  Setup Instructions
+
+Follow these steps to run the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone <your-repo-link>
+   ```
+
+2. Navigate into the project folder:
+   ```bash
+   cd textshot
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+5. Open your browser and visit:
+   ```
+   http://localhost:5173
+   ```
+
