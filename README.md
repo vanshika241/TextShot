@@ -26,19 +26,19 @@ Whether for writing, editing, or learning, TextShot makes working with text fast
 ##  Review Images
 
 ### Home
-![Home Page](./images/home.png)
+![Home Page](./images/HomePage.png)
 
 ### Feature1
-![Features Page](./images/features.png)
+![Features Page](./images/Feature1.png)
 
 ### Feature2
-![Contact Page](./images/contact.png)
+![Contact Page](./images/Feature2.png)
 
 ### Feature3
-![Home Page](./images/home.png)
+![Home Page](./images/Feature3.png)
 
 ### Contact
-![Features Page](./images/features.png)
+![Features Page](./images/Contact.png)
 
 ---
 
@@ -70,4 +70,5 @@ Follow these steps to run the project locally:
    ```
    http://localhost:5173
    ```
+
 
